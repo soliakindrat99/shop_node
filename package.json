@@ -1,0 +1,27 @@
+{
+    "name": "shop_node",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1"
+    },
+    "devDependencies": {
+        "eslint": "^7.11.0",
+        "eslint-plugin-react": "^7.21.5"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/soliakindrat99/shop_node.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/soliakindrat99/shop_node/issues"
+    },
+    "homepage": "https://github.com/soliakindrat99/shop_node#readme"
+}
